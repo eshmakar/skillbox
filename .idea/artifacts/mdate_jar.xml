@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mdate:jar">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="skillbox.jar">
+      <element id="module-output" name="skillbox" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/test/lib/airport-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
